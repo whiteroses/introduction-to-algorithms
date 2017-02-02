@@ -1,0 +1,13 @@
+= Introduction to Algorithms notes =
+
+== Sorting problem ==
+
+Sort a sequence of numbers into nondecreasing order.
+
+Input: A sequence of $n$ numbers $\langle a_1,a_2,...,a_n\rangle$.
+
+Output: A permutation (reordering) $\langle a'_1,a'_2,...a'_n\rangle$ of the input sequence such that $a'_1\le{}a'_2\le{}...\le{}a'_n$. 
+
+E.g. given input sequence $\langle 31, 41, 59, 26, 41, 58\rangle$, a sorting
+algorithm returns as output the sequence $\langle 26, 31, 41, 41, 58, 59\rangle$.
+The input sequence is an *instance* of the sorting problem.
